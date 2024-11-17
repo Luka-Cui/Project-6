@@ -2,11 +2,11 @@
 
 ### Name
 
-_Write your name here_
+Bingyu Cui(Luka)
 
 ### Introspection
 
-_Describe the challenges you faced and what you learned_
+nothing
 
 ### Dataset
 
@@ -14,8 +14,7 @@ _Which dataset did you choose for the classification task?_
 
 ### Resources
 
-_List the people and resources you used to complete the project_
-
+google
 
 ### *DO NOT EDIT BELOW THIS LINE*
 ---
